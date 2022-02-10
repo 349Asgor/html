@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+#admin-box{
+    background-color: gray;
+    color: rgb(26, 33, 128);
+    width: 500px;
+
+
+}
+input::placeholder{
+    color: rgb(226, 43, 43);
+
+}
+#admin-box{
+
+}
